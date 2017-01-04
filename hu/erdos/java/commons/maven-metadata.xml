@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>hu.erdos.java</groupId>
-  <artifactId>jchart</artifactId>
+  <artifactId>commons</artifactId>
   <versioning>
-    <release>0.1.0</release>
     <versions>
-      <version>0.1.0</version>
+      <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20170103220328</lastUpdated>
+    <lastUpdated>20170104132658</lastUpdated>
   </versioning>
 </metadata>
